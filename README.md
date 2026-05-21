@@ -1,6 +1,6 @@
 # Hey there, I'm Fathima Salga 👋
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">
 
 ### Aspiring Data Scientist | AI Enthusiast | Python Developer
 <!--
