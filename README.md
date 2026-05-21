@@ -2,25 +2,18 @@
 
 <img align="right" alt="coding" width="320" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">
 
-<img align="right" alt="woman coding" width="320" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
-
-<img align="right" alt="developer" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-
-<img align="right" alt="AI engineer" width="320" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif">
-
-
-<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 <img align="right" alt="developer" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<img align="right" alt="woman developer" width="320" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif">
-<img align="right" alt="AI engineer" width="320" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
+<img align="right" alt="woman coding" width="320" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif">
 
-<img align="right" alt="coding girl" width="320" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif">
+<img align="right" alt="female developer" width="320" src="https://media.giphy.com/media/74ZOAgI9Al0Dm/giphy.gif">
 
-<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+<img align="right" alt="coding girl" width="320" src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif">
 
-<img align="right" alt="developer" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="woman programmer" width="320" src="https://media.giphy.com/media/Y1vohJMVMtjSQxmUOt/giphy.gif">
+
+<img align="right" alt="woman coding" width="320" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif">
 
 ### Aspiring Data Scientist | AI Enthusiast | Python Developer
 <!--
