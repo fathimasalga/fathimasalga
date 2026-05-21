@@ -122,14 +122,9 @@ An unconventional path — and a deliberate one. Scientific computing at DRDO ga
 | Meta Data Analyst Specialization | Coursera · Meta | 2026 |
 
 ---
+## 📊 GitHub Activity
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=fathimasalga&theme=default&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathimasalga&layout=compact&theme=default&hide_border=true" height="160"/>
-</p>
----
+![Fathima's GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fathimasalga&theme=default)
 
 ## 📬 Get in touch
 
