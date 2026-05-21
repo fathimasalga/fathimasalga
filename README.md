@@ -134,7 +134,7 @@ An unconventional path — and a deliberate one. Scientific computing at DRDO ga
 
 ## 📬 Get in touch
 
-- 📧 fathimahashim34@gmail.com
+- 📧 fathimasalga26@gmail.com
 - 💼 [linkedin.com/in/fathimasalga](https://linkedin.com/in/fathimasalga)
 - 🐙 [github.com/fathimasalga](https://github.com/fathimasalga)
 
