@@ -2,6 +2,12 @@
 
 <img align="right" alt="coding" width="320" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">
 
+<img align="right" alt="woman coding" width="320" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+
+<img align="right" alt="developer" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+<img align="right" alt="AI engineer" width="320" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif">
+
 ### Aspiring Data Scientist | AI Enthusiast | Python Developer
 <!--
 **fathimasalga/fathimasalga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
